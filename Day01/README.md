@@ -54,8 +54,12 @@ Lists and Typles are Python datatypes used to store any type of data
 **Swap two numbers without using third variable**
 
 . Script04
+
+
 **Find the Fibonacci sequence**
 
 . Script05
+
+
 **Calculate the sum of all the digits in a number**
 
