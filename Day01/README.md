@@ -36,7 +36,9 @@ Lists and Typles are Python datatypes used to store any type of data
 
      -- **kwargs is mainly used with dictionary
 
+5 -  **What is a Map function in  python?**
 
+a map() function is used to iterate on a given function and its argument must be an iterable( list , tuple, etc) and  return a list
 ---
 
 # Writing Scripts
@@ -63,3 +65,7 @@ Lists and Typles are Python datatypes used to store any type of data
 
 **Calculate the sum of all the digits in a number**
 
+
+. Script06
+
+# Check if a string is a palindrome or not
