@@ -39,6 +39,10 @@ Lists and Typles are Python datatypes used to store any type of data
 5 -  **What is a Map function in  python?**
 
 a map() function is used to iterate on a given function and its argument must be an iterable( list , tuple, etc) and  return a list
+
+6 -  **What is a dynamically typed language?**
+
+Dynamically typed language is a language where the Data types are checked during execution
 ---
 
 # Writing Scripts
@@ -69,3 +73,8 @@ a map() function is used to iterate on a given function and its argument must be
 . Script06
 
 # Check if a string is a palindrome or not
+
+
+. Script07
+
+# Swap two numbers without using third variable
