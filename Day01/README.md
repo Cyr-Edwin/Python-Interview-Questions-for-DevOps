@@ -43,6 +43,12 @@ a map() function is used to iterate on a given function and its argument must be
 6 -  **What is a dynamically typed language?**
 
 Dynamically typed language is a language where the Data types are checked during execution
+
+7 -  **What is Scope in Python?**
+A scope is a block of code where an object in Python remains important. The different scope in Python are:
+
+    - local scope: object available in the current function
+    - global scope: object available anywhere 
 ---
 
 # Writing Scripts
@@ -72,9 +78,13 @@ Dynamically typed language is a language where the Data types are checked during
 
 . Script06
 
-# Check if a string is a palindrome or not
+**Check if a string is a palindrome or not**
 
 
 . Script07
 
-# Swap two numbers without using third variable
+**Swap two numbers without using third variable**
+
+. Script08
+
+**Copy contents of files named like “file1.txt …” in Folder1 to Folder2**
